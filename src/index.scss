@@ -1,0 +1,13 @@
+@import './scss/variables.scss';
+
+@font-face {
+  font-family: $font-family;
+  src: url('./assets/fonts/KumbhSans-Regular.ttf') format('truetype');
+}
+
+body {
+  margin: 0;
+  font-family: $font-family;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

@@ -1,0 +1,156 @@
+@import './scss/variables.scss';
+
+header {
+  text-align: center;
+  padding: 1rem 0;
+}
+
+// .App-logo {
+//   height: 40vmin;
+//   pointer-events: none;
+// }
+
+// @media (prefers-reduced-motion: no-preference) {
+//   .App-logo {
+//     animation: App-logo-spin infinite 20s linear;
+//   }
+// }
+
+// .App-header {
+//   background-color: #282c34;
+//   min-height: 100vh;
+//   display: flex;
+//   flex-direction: column;
+//   align-items: center;
+//   justify-content: center;
+//   font-size: calc(10px + 2vmin);
+//   color: white;
+// }
+
+// .App-link {
+//   color: #61dafb;
+// }
+
+// @keyframes App-logo-spin {
+//   from {
+//     transform: rotate(0deg);
+//   }
+//   to {
+//     transform: rotate(360deg);
+//   }
+// }
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+@for $i from 0 through 12 {
+  $width: ($i/12) * 100%;
+
+  .col-#{$i} {
+    width: $width;
+    padding: $gutter $gutter;
+  }
+}
+
+/* Margin and Padding */
+
+@each $space in $spaceamounts {
+  @each $side in $sides {
+    .m#{str-slice($side, 0, 1)}-#{$space} {
+      margin-#{$side}: #{$space}rem !important;
+    }
+
+    .p#{str-slice($side, 0, 1)}-#{$space} {
+      padding-#{$side}: #{$space}rem !important;
+    }
+  }
+}
+
+/* Width SVG - rem */
+@each $space in $spaceamounts {
+  .m-#{$space} {
+    margin: #{$space}rem !important;
+  }
+
+  .p-#{$space} {
+    padding: #{$space}rem !important;
+  }
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.h-100 {
+  height: 100% !important;
+}
+
+.d-none {
+  display: none;
+}
+
+.d-block {
+  display: block;
+}
+
+.d-inline {
+  display: inline-block;
+}
+
+.d-grid {
+  display: grid;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.space-between { 
+  -webkit-align-content: space-between; 
+  align-content: space-between; 
+}  
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.p-l {
+  padding-left: 0 !important;
+}
+
+.p-r {
+  padding-right: 0 !important;
+}
+
+.p-x {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.text-right {
+  text-align: right !important;
+}
+
+.text-left {
+  text-align: left !important;
+}
+
+.strong {
+  font-weight: 600;
+}
+
+.pointer {
+  cursor: pointer;
+}

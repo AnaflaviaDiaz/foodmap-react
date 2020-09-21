@@ -1,24 +1,41 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from 'react';
+import './App.scss';
 
-function App() {
+import Toolbar from './components/toolbar/Toolbar';
+import RestaurantList from './components/restaurant/list/RestaurantList';
+import Modal from './components/modal/Modal';
+
+const initialInformationItemState = {
+  name: '',
+  address: '',
+  link: '',
+  img: '',
+}
+
+const App = () => {
+  const [showModal, setShowModal] = useState(false);
+  const [informationModal, setInformationModal] = useState(initialInformationItemState);
+
+  const handleShowModal = (value) => {
+    setShowModal(value);
+  };
+
+  const handleInformationModal = (information) => {
+    setInformationModal(information);
+  };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Toolbar />
+      <main className="">
+        <RestaurantList
+          getInformationModal={handleInformationModal}
+          onOpenModal={handleShowModal} />
+        {showModal && (
+          <Modal
+            informationModal={informationModal}
+            onCloseModal={handleShowModal} />)}
+      </main>
     </div>
   );
 }

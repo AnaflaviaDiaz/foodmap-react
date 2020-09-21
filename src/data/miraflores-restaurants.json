@@ -1,0 +1,361 @@
+[{
+  "name": "La Vaca Loca Rosenda",
+  "address": "Larcomar, C.C 18,, Malecón de la Reserva 610, Miraflores Lima 18",
+  "district": "Miraflores",
+  "filter": "la vaca loca rosenda carnes parillas bbq filetes pollos lomo champiñones anticuchos vinos",
+  "id": "parr2",
+  "img": "img/filete.png",
+  "type": "Carnes y Parrillas",
+  "link": "https://www.google.com.pe/maps/place/La+Vaca+Loca/@-12.1316641,-77.0313171,19z/data=!3m1!4b1!4m5!3m4!1s0x9105b7e03588caed:0x5e529989472b0b0a!8m2!3d-12.1316641!4d-77.0307699"
+}, {
+  "name": "Carnal",
+  "address": "Calle Elías Aguirre 698, Miraflores 15074",
+  "district": "Miraflores",
+  "filter": "carnal parrillas carnes papas ensalada lomo bbq",
+  "id": "parr3",
+  "img": "img/filete.png",
+  "type": "Carnes y Parrillas",
+  "link": "https://www.google.com.pe/maps/place/Carnal/@-12.1133279,-77.034633,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c83e0fb111db:0x229e5c9019402d9b!8m2!3d-12.1133279!4d-77.034633"
+}, {
+  "name": "Cuarto y Mitad",
+  "address": "Av. Los Conquistadores 1266, San Isidro 15073",
+  "district": "Miraflores",
+  "filter": "cuarto y mitad carnes parrillas filetes bbq papas fritas arroz fettuccini anticucho chorizo lomo saltado lasagna ravioles risotto pollo milanesa ensalada sopa langostinos",
+  "id": "parr4",
+  "img": "img/filete.png",
+  "type": "Carnes y Parrillas",
+  "link": "https://www.google.com.pe/maps/place/Restaurant+Cuarto+y+Mitad/@-12.1092512,-77.037145,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c83ef0b0dfb9:0xb1b4ad5e7cd74699!8m2!3d-12.1092512!4d-77.037145"
+}, {
+  "name": "Fridays",
+  "address": "Avenida Santa Cruz 824, Miraflores 15073",
+  "district": "Miraflores",
+  "filter": "fridays bbq parrillas carnes sandwich pastas ensaladas",
+  "id": "parr6",
+  "img": "img/filete.png",
+  "type": "Carnes y Parrillas",
+  "link": "https://www.google.com.pe/maps/place/Fridays/@-12.110656,-77.037319,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c971b71b297b:0xdce4857a05ac36e8!8m2!3d-12.110656!4d-77.037319"
+}, {
+  "name": "Tony Roma's",
+  "address": "Centro Comercial Jockey Plaza, Av. Javier Prado Este 4200, Santiago de Surco 15023",
+  "district": "Surco",
+  "filter": "tony roma's cervezas vinos costillas parrillas carnes arroz pure papas fritas champiñones bbq pollo",
+  "id": "parr7",
+  "img": "img/filete.png",
+  "type": "Carnes y Parrillas",
+  "link": "https://www.google.com.pe/maps/place/TONY+ROMA'S/@-12.0942798,-76.9879971,14z/data=!4m8!1m2!2m1!1stony+roma's+larcomar!3m4!1s0x9105c7b2636d8c07:0x49f35922e8c89e3f!8m2!3d-12.0849639!4d-76.9745217"
+}, {
+  "name": "La Tranquera BBQ",
+  "address": "Av. José Pardo 285, Miraflores 15074",
+  "district": "Miraflores",
+  "filter": "la tranquera bbq parrillas carnes lomo saltado cebiche tacu pollo pescado",
+  "id": "parr8",
+  "img": "img/filete.png",
+  "type": "Carnes y Parrillas",
+  "link": "https://www.google.com.pe/maps/place/La+Tranquera+BBQ/@-12.1192432,-77.0316267,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c8182732a075:0x90e9ec8f52b4c531!8m2!3d-12.1192432!4d-77.0316267"
+}, {
+  "name": "El Parrillón",
+  "address": "Av 28 de Julio 795, Miraflores 15074",
+  "district": "Miraflores",
+  "filter": "milanesa pollo caballo papas pure arroz tiramisú fetuccini lasaña ravioles ensalada champiñones cuy conejo churrasco parrillas carne parrillon",
+  "id": "parr9",
+  "img": "img/filete.png",
+  "type": "Carnes y Parrillas",
+  "link": "https://www.google.com.pe/maps/place/El+Parrill%C3%B3n+de+Pablo+Profumo/@-12.128127,-77.026109,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c81db873a7cf:0x7b5eaed2252e0db3!8m2!3d-12.128127!4d-77.026109"
+}, {
+  "name": "Wallqa",
+  "address": "Av Vasco Núñez de Balboa 530, Miraflores, Lima 15074",
+  "district": "Miraflores",
+  "filter": "carnes res bao bun ceviche tacu lomo saltado pato tres leches pulpo rocoto relleno wallqa",
+  "id": "parr10",
+  "img": "img/filete.png",
+  "type": "Carnes y Parrillas",
+  "link": "https://www.google.com.pe/maps/place/Wallqa+Restaurante/@-12.1312752,-77.0256254,17z/data=!3m1!4b1!4m5!3m4!1s0x9105b7e2682dc293:0x510b46e2c0b526b1!8m2!3d-12.1312752!4d-77.0256254"
+}, {
+  "name": "Panchita",
+  "address": "Calle 2 de Mayo 298, Miraflores 15074",
+  "district": "Miraflores",
+  "filter": "bistecks anticuchos aguaditos sopas parrillas arroz lomo saltado cuy papas tacu tallarines panchita carnes filete pachamanca cau seco cebiche",
+  "id": "parr11",
+  "img": "img/filete.png",
+  "type": "Carnes y Parrillas",
+  "link": "https://www.google.com.pe/maps/place/Panchita+-+Miraflores/@-12.11793,-77.03134,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c81797728d45:0x7bd7379c9cb86aa8!8m2!3d-12.11793!4d-77.03134"
+}, {
+  "name": "Fu Jou",
+  "address": "Calle 2 de Mayo 416, Miraflores 15074",
+  "district": "Miraflores",
+  "filter": "fu jou chifa chaufa arroz tallarines aeropuerto chancho res pollo aeropuerto lomo",
+  "id": "chif1",
+  "img": "img/ramen.png",
+  "type": "Chifa",
+  "link": "https://www.google.com.pe/maps/place/Chifa+Fu+Jou/@-12.1178916,-77.0329148,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c817e70da571:0xc5f474b65424abc4!8m2!3d-12.1178916!4d-77.0329148"
+}, {
+  "name": "China Wok",
+  "address": "Av Jose Larco 439, Miraflores 15074",
+  "district": "Miraflores",
+  "filter": "chanwok chifa chaufa tallarines wantan arroz chancho res pollo tausí gaseosa lomo aeropuerto platano huevo frito",
+  "id": "chif2",
+  "img": "img/ramen.png",
+  "type": "Chifa",
+  "link": "https://www.google.com.pe/maps/place/Chinawok/@-12.1217569,-77.0464465,14z/data=!4m8!1m2!2m1!1sChina+Wok!3m4!1s0x9105c8199fcdf4f1:0xca10bffbc1b04a1b!8m2!3d-12.1217569!4d-77.028937"
+}, {
+  "name": "Madam Tusan",
+  "address": "Av 28 de Julio 1045, Miraflores 15047",
+  "district": "Miraflores",
+  "filter": "madam tusan chifa chaufa dim sum carnes arroz tallarines chancho pollo langostinos huevos",
+  "id": "chif3",
+  "img": "img/ramen.png",
+  "type": "Chifa",
+  "link": "https://www.google.com.pe/maps/place/Madam+Tusan+-+28+de+Julio/@-12.1295754,-77.0244504,17z/data=!4m5!3m4!1s0x9105c81d56a80cc3:0xa8dbdf5acadc63e2!8m2!3d-12.1295754!4d-77.0222671"
+}, {
+  "name": "Wa Lok",
+  "address": "Av. Angamos Oeste 700, Miraflores 15074",
+  "district": "Miraflores",
+  "filter": "wa lok chifa chaufa sopas postres aves chancho res saltado arroz",
+  "id": "chif4",
+  "img": "img/ramen.png",
+  "type": "Chifa",
+  "link": "https://www.google.com.pe/maps/place/Wa+Lok/@-12.1137741,-77.038111,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c83dd69f7789:0xe38ca928b940b2ee!8m2!3d-12.1137741!4d-77.0359169"
+}, {
+  "name": "Kam Mey My",
+  "address": "Av. Alfredo Benavides 1545, Miraflores Lima 18",
+  "district": "Miraflores",
+  "filter": "kam mey my chifa pollos cerdos pato asado patos tallarines pescados caldos chaufa",
+  "id": "chif5",
+  "img": "img/ramen.png",
+  "type": "Chifa",
+  "link": "https://www.google.com.pe/maps/place/Chifa+Kam+Mey+My/@-12.1137719,-77.0710334,13z/data=!4m8!1m2!2m1!1sKam+Mey+My!3m4!1s0x9105c7f87f948d0b:0x35e5641baecbb01e!8m2!3d-12.1262601!4d-77.0169448"
+}, {
+  "name": "Kuo Wha",
+  "address": "Av. Paseo de la República 5046, Miraflores 15047",
+  "district": "Miraflores",
+  "filter": "kuo wha chifa langosta tallarín sopa pescado chicharrón langostino parrilla pato chancho lomo res chaufa ",
+  "id": "chif6",
+  "img": "img/ramen.png",
+  "type": "Chifa",
+  "link": "https://www.google.com.pe/maps/place/Restaurante+Oriental+Kuo+Wha/@-12.1155309,-77.0287331,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c811240ddc4d:0x59437e125b8c5fa9!8m2!3d-12.1155309!4d-77.026539"
+}, {
+  "name": "El Señorío de Sulco",
+  "address": "Malecón Cisneros 1470, Miraflores 15074",
+  "district": "Miraflores",
+  "filter": "seco de cabrito comida criolla el señorío de sulco arroz pato cebiche aji de gallina cau sudado mariscos lechón",
+  "id": "criol1",
+  "img": "img/pollo-frito.png",
+  "type": "Comida Criolla",
+  "link": "https://www.google.com.pe/maps/place/El+Se%C3%B1or%C3%ADo+de+Sulco/@-12.1196869,-77.0461321,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c83aad77b8dd:0x348a0c7d016c2ad3!8m2!3d-12.1196869!4d-77.043938"
+}, {
+  "name": "El Parquetito",
+  "address": "Lima 373, Miraflores Lima 18",
+  "district": "Miraflores",
+  "filter": "el parquetito comida criolla crema de tomatee ensalada pollo milanesa pan chicharrón huevo hamburguesa sudado arroz con marisco chaufa tacu pescado",
+  "id": "criol2",
+  "img": "img/pollo-frito.png",
+  "type": "Comida Criolla",
+  "link": "https://www.google.com.pe/maps/place/El+Parquetito/@-12.1219836,-77.0322624,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c81907102aa7:0x50b3b3d77b3d6552!8m2!3d-12.1219836!4d-77.0300683"
+}, {
+  "name": "Caravana",
+  "address": "Calle Ciro Alegría 2090, Miraflores 15048",
+  "district": "Miraflores",
+  "filter": "caravana comida criolla brochetas bbbq pollo chicharrón anticuchos brochetas pollo res",
+  "id": "criol3",
+  "img": "img/pollo-frito.png",
+  "type": "Comida Criolla",
+  "link": "https://www.google.com.pe/maps/place/Caravana/@-12.1275889,-77.012897,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c80057d82e0b:0x99e845bb9f9a7718!8m2!3d-12.1275889!4d-77.0107029"
+}, {
+  "name": "ámaZ",
+  "address": "Av. la Paz 1079, Miraflores 15074",
+  "district": "Miraflores",
+  "filter": "amaz comida de la selva selvatica tacacho cachapa choclo paiche camu camu pishpirones",
+  "id": "selv1",
+  "img": "img/olla.png",
+  "type": "Comida Selvática",
+  "link": "https://www.google.com.pe/maps/place/%C3%A1maZ/@-12.1287087,-77.028752,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c81dc203f8a1:0xc292e53ab6af3a54!8m2!3d-12.1287087!4d-77.0265579"
+}, {
+  "name": "Edo Sushi Bar",
+  "address": "Calle Berlin 601, Miraflores 15074",
+  "district": "Miraflores",
+  "filter": "edo sushi bar sashimi nigiri maki gunkan yakimono",
+  "id": "sush4",
+  "img": "img/sushi.png",
+  "type": "Comida Japonesa",
+  "link": "https://www.google.com.pe/maps/place/Edo+Sushi+Bar+Miraflores/@-12.120292,-77.0380947,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c822d93982fb:0x379c1b9b24b17350!8m2!3d-12.120292!4d-77.0359006"
+}, {
+  "name": "Taiken",
+  "address": "Calle Berlin 645 Miraflores, Lima",
+  "district": "Miraflores",
+  "filter": "taiken sushi mariscos bar sashimi nigiri maki",
+  "id": "sush1",
+  "img": "img/sushi.png",
+  "type": "Comida Japonesa",
+  "link": "https://www.google.com.pe/maps/place/TAIKEN+RESTOBAR+SUSHI/@-12.120195,-77.0385791,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c82327845fc1:0x5f6bdc7ce9a8f6e9!8m2!3d-12.120195!4d-77.036385"
+}, {
+  "name": "Magma Lounge",
+  "address": "Calle San Martin 512, Miraflores 15074",
+  "district": "Miraflores",
+  "filter": "magma lounge sushi atun salmon lenguado pulpo mixto erizo langostinos chita nigiri makis thai",
+  "id": "sush2",
+  "img": "img/sushi.png",
+  "type": "Comida Japonesa",
+  "link": "https://www.google.com.pe/maps/place/Magma+Sushi+Lounge/@-12.126125,-77.0315131,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c81eea65eca1:0x8c2fb94207bbb266!8m2!3d-12.126125!4d-77.029319"
+}, {
+  "name": "Aka Tonbo",
+  "address": "Calle Alcanfores 377, Lima 15074",
+  "district": "Miraflores",
+  "filter": "aka tonbo sushi makis atun salmon langostino pulpo",
+  "id": "sush3",
+  "img": "img/sushi.png",
+  "type": "Comida Japonesa",
+  "link": "https://www.google.com.pe/maps/place/Aka+Tonbo+Karaoke+Sushi/@-12.1229251,-77.0299745,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c81961f3a931:0xd9c4799550468536!8m2!3d-12.1229251!4d-77.0277804"
+}, {
+  "name": "La Rosa Náutica",
+  "address": "Espigón Miraflores, Lima 18, Circuito de Playas, Miraflores",
+  "district": "Miraflores",
+  "filter": "la rosa nautica comida peruana internacional cebiche ceviche lomo res langostino papa plancha estofado chicharron de calamar brochetas pulpo grill champignones parrilla asado",
+  "id": "intr1",
+  "img": "img/menu.png",
+  "type": "Comida Peruana Internacional",
+  "link": "https://www.google.com.pe/maps/place/La+Rosa+N%C3%A1utica/@-12.1311168,-77.0384541,17z/data=!3m1!4b1!4m5!3m4!1s0x9105b7df787897b7:0xe289e2475eaa605d!8m2!3d-12.1311168!4d-77.03626"
+}, {
+  "name": "Corrientes 348",
+  "address": "Av. Alfredo Benavides 2123, Miraflores 15048",
+  "district": "Miraflores",
+  "filter": "corrientes 348 comida peruana internacional parrilla chorizos papas fritas carnes res mollejas pizza cerdo lechon",
+  "id": "intr2",
+  "img": "img/menu.png",
+  "type": "Comida Peruana Internacional",
+  "link": "https://www.google.com.pe/maps/place/Corrientes+348/@-12.1272532,-77.0129331,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c800776e5803:0xae44cddcaebfb387!8m2!3d-12.1272532!4d-77.010739"
+}, {
+  "name": "Arúgula",
+  "address": "San Fernando 320, Miraflores, Lima 15074",
+  "district": "Miraflores",
+  "filter": "arugula comida peruana internacional croissant muffins brownies cafe ensalada champiñones",
+  "id": "intr3",
+  "img": "img/menu.png",
+  "type": "Comida Peruana Internacional",
+  "link": "https://www.google.com.pe/maps/place/Restaurante+Ar%C3%BAgula/@-12.1318393,-77.029249,17z/data=!3m1!4b1!4m5!3m4!1s0x9105b7e22363fa35:0xf665877a2cf7d3b1!8m2!3d-12.1318393!4d-77.0270549"
+}, {
+  "name": "Embarcadero 41 Fusión",
+  "address": "Av Mariscal La Mar 456, Miraflores 15074",
+  "district": "Miraflores",
+  "filter": "embarcadero 41 fusión mariscos piqueos choritos chalaca conchas chicharron lomo saltado tiradito causa leche de tigre ceviche cebiche pulpo parrilla",
+  "id": "fusi1",
+  "img": "img/ensalada.png",
+  "type": "Fusión",
+  "link": "https://www.google.com.pe/maps/place/Embarcadero+41+Fusi%C3%B3n/@-12.1156829,-77.0453501,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c83a40e2d58d:0xce3281352a893b85!8m2!3d-12.1156829!4d-77.043156"
+}, {
+  "name": "Mama Olla",
+  "address": "Calle Tarata 248, Miraflores 15074",
+  "district": "Miraflores",
+  "filter": "mama olla fusión fusion rocoto pollo lomo saltado filete carne",
+  "id": "fusi2",
+  "img": "img/ensalada.png",
+  "type": "Fusión",
+  "link": "https://www.google.com.pe/maps/place/Mama+Olla+Restaurant/@-12.1235919,-77.0307921,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c8194465a36d:0x59f3d561a2f297c3!8m2!3d-12.1235919!4d-77.028598"
+}, {
+  "name": "Que Waffles",
+  "address": "Calle Cantuarias 128, Miraflores 15074",
+  "district": "Miraflores",
+  "filter": "que waffles pastelería postres tortas crepes brownies dulcería",
+  "id": "past1",
+  "img": "img/churros.png",
+  "type": "Pastelería",
+  "link": "https://www.google.com.pe/maps/place/Que+Waffles/@-12.1033524,-77.1005477,12z/data=!4m8!1m2!2m1!1screpes+%26+waffles+Miraflores!3m4!1s0x9105c8199b8b4ea3:0x74f396f36920082d!8m2!3d-12.12142!4d-77.028648"
+}, {
+  "name": "Babolti",
+  "address": "Av. José Pardo 551, Lima 15074",
+  "district": "Miraflores",
+  "filter": "babolti pastelería postres tortas dulces pie limon trufas dulcería",
+  "id": "past2",
+  "img": "img/churros.png",
+  "type": "Pastelería",
+  "link": "https://www.google.com.pe/maps/place/Babolti/@-12.119335,-77.0365637,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c83d4b59fdbf:0x756f9ff7f74c791b!8m2!3d-12.119335!4d-77.034375"
+}, {
+  "name": "Las Delicias",
+  "address": "Ignacio Merino 505 Miraflores, Lima 15074",
+  "district": "Miraflores",
+  "filter": "las delicias pastelería postres tortas dulces pie limon trufas dulcería",
+  "id": "past3",
+  "img": "img/churros.png",
+  "type": "Pastelería",
+  "link": "https://www.google.com.pe/maps/place/Las+Delicias/@-12.113086,-77.0477811,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c8374337172b:0x5dd8a91c67b5911a!8m2!3d-12.113086!4d-77.045587"
+}, {
+  "name": "Costanera 700",
+  "address": "Av. del Ejército 421, Miraflores 15074",
+  "district": "Miraflores",
+  "filter": "costanera 700 pescados mariscos pato langostino conchas calamar vino arroz camarones",
+  "id": "pesc1",
+  "img": "img/langosta.png",
+  "type": "Pescados y Mariscos",
+  "link": "https://www.google.com.pe/maps/place/Costanera+700/@-12.116732,-77.0474021,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c83a7fccb029:0xf0a3e8bf3ec3d0eb!8m2!3d-12.116732!4d-77.045208"
+}, {
+  "name": "El Pez Amigo",
+  "address": "Av. la Paz 1640, Miraflores 15074",
+  "district": "Miraflores",
+  "filter": "el pez amigo pescados mariscos pato langostino conchas calamar vino arroz camarones",
+  "id": "pesc2",
+  "img": "img/langosta.png",
+  "type": "Pescados y Mariscos",
+  "link": "https://www.google.com.pe/maps/place/El+Pez+Amigo/@-12.134402,-77.0274881,17z/data=!3m1!4b1!4m5!3m4!1s0x9105b7e39bae5b81:0x9866ea2f853f88c6!8m2!3d-12.134402!4d-77.025294"
+}, {
+  "name": "Alfresco",
+  "address": "Miraflores, Av 28 de Julio 331, Cercado de Lima 18",
+  "district": "Miraflores",
+  "filter": "alfresco pescados mariscos pato langostino conchas calamar vino arroz camarones",
+  "id": "pesc3",
+  "img": "img/langosta.png",
+  "type": "Pescados y Mariscos",
+  "link": "https://www.google.com.pe/maps/place/Restaurante+Alfresco/@-12.1261142,-77.0334171,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c818a6262489:0xce46c53ad0adf57a!8m2!3d-12.1261142!4d-77.031223"
+}, {
+  "name": "Rústica",
+  "address": "Calle de las Pizzas 104, Miraflores Lima 18",
+  "district": "Miraflores",
+  "filter": "rustica restaurante bar karaoke piqueos pizzas parrillas cocteles pollos",
+  "id": "bark1",
+  "img": "img/vino.png",
+  "type": "Restaurante Bar",
+  "link": "https://www.google.com.pe/maps/place/R%C3%BAstica+Calle+de+las+pizzas/@-12.1216067,-77.0331178,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c81854362fb9:0xcc157430a89d5346!8m2!3d-12.1216067!4d-77.0309237"
+}, {
+  "name": "El Hornero",
+  "address": "Av. Paseo de la Republica 6500, Barranco 15063",
+  "district": "Barranco",
+  "filter": "el hornero restaurante bar parrilladas vinos carnes ",
+  "id": "bark2",
+  "img": "img/vino.png",
+  "type": "Restaurante Bar",
+  "link": "https://www.google.com.pe/maps/place/El+Hornero/@-12.1275867,-77.0458194,13z/data=!4m8!1m2!2m1!1sBar+Pisco+El+Marquez+!3m4!1s0x9105b7fc9d047449:0x51080dfcf8a5fb67!8m2!3d-12.1351946!4d-77.0199028"
+}, {
+  "name": "Mangos",
+  "address": "Larcomar, Malecón de la Reserva 610, Miraflores, Lima 15074",
+  "district": "Miraflores",
+  "filter": "mangos restaurant bar vinos parrilladas pollos",
+  "id": "bark3",
+  "img": "img/vino.png",
+  "type": "Restaurante Bar",
+  "link": "https://www.google.com.pe/maps/place/Mangos+Restaurante/@-12.1320583,-77.0326978,17z/data=!3m1!4b1!4m5!3m4!1s0x9105b7e037c15cad:0x2f7f8e1de8c89c3d!8m2!3d-12.1320583!4d-77.0305037"
+}, {
+  "name": "Bembos",
+  "address": "Av. Larco N° 1080, LIMA, Miraflores 18",
+  "district": "Miraflores",
+  "filter": "bembos sandwich café hamburguesas helados ensalada bebidas",
+  "id": "sand1",
+  "img": "img/sandwich.png",
+  "type": "Sandwicherias y Cafés",
+  "link": "https://www.google.com.pe/maps/place/Bembos/@-12.1284786,-77.0320062,17z/data=!3m1!4b1!4m5!3m4!1s0x9105c81e489741bb:0x1cd636647a0f3fe7!8m2!3d-12.1284786!4d-77.0298121"
+}, {
+  "name": "Super Rueda",
+  "address": "1224, Av. José Pardo, Miraflores 15074",
+  "district": "Miraflores",
+  "filter": "super rueda sandwich café hamburguesas bebidas tacos enchiladas salchipapas",
+  "id": "sand2",
+  "img": "img/sandwich.png",
+  "type": "Sandwicherias y Cafés",
+  "link": "https://www.google.com.pe/maps/place/Super+Rueda/@-12.1281236,-77.1001222,12z/data=!4m8!1m2!2m1!1sSuper+Rueda!3m4!1s0x9105c83b2568527d:0x1d2a99309e748d5e!8m2!3d-12.1188824!4d-77.0413538"
+}, {
+  "name": "La Lucha",
+  "address": "Av. Sta. Cruz 847, Miraflores 15074",
+  "district": "Miraflores",
+  "filter": "la lucha sandwich café hamburguesas pollo panini pavo lechon jamon chicharron",
+  "id": "sand3",
+  "img": "img/sandwich.png",
+  "type": "Sandwicherias y Cafés",
+  "link": "https://www.google.com.pe/maps/place/La+Lucha+Sangucher%C3%ADa+Criolla/@-12.1166603,-77.0432742,15z/data=!4m8!1m2!2m1!1sla+lucha+sangucheria+miraflores!3m4!1s0x9105c83f10ac7f67:0x48300ee3adaf0e8!8m2!3d-12.1103659!4d-77.037492"
+}]

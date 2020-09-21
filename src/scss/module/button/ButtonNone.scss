@@ -1,0 +1,23 @@
+@import '../../variables.scss';
+
+.ButtonNone {
+    position: absolute;
+    cursor: pointer;
+    top: 5px;
+    right: 15px;
+    opacity: 0;
+    backface-visibility: hidden;
+    transition: opacity $speed $easing, transform $speed $easing;
+    transition-delay: $delay;
+
+    svg {
+      width: 1.75em;
+      height: 1.75em;
+    }
+
+  @media only screen and (max-width: 39.9375em) {
+    & {
+      right: 20px !important;
+    }
+  }
+}
