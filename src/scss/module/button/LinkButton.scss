@@ -13,6 +13,7 @@
   transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
   color: #007bff;
   background-color: transparent;
+  text-decoration: none;
 
   @media screen and (prefers-reduced-motion:reduce) {
     & {
@@ -25,6 +26,10 @@
     text-decoration: underline;
     border-color: transparent;
     box-shadow: none;
+  }
+
+  &:link {
+    text-decoration: none !important;
   }
 
   &.disabled,

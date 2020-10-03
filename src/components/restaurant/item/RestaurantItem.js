@@ -1,6 +1,6 @@
 import React from 'react';
 import './RestaurantItem.scss';
-import '../../../scss/module/text/LinkButton.scss';
+import '../../../scss/module/button/LinkButton.scss';
 
 const RestaurantItem = ({ restaurant, getInformationModal, onOpenModal }) => {
 
