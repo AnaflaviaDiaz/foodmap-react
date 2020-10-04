@@ -1,0 +1,10 @@
+.RestaurantList {
+  justify-content: center;
+  display: grid;
+
+  @media screen and (max-width: 600px) {
+    & {
+      justify-content: initial;
+    }
+  }
+}

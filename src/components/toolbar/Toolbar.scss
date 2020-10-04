@@ -1,0 +1,19 @@
+@import '../../scss/variables.scss';
+
+.Toolbar {
+  .toolbar-search {
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+    height: 3rem;
+    border-bottom-style: inset;
+    background-color: $bg-secondary-color;
+
+    div {
+      padding: 5px;
+    }
+  }
+}
+
+header {
+  padding: 0;
+}

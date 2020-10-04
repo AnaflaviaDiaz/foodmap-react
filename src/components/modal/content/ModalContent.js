@@ -6,8 +6,8 @@ const ModalContent = ({ informationModal }) => {
 
   return (
     <div className="p-2">
-      <h2>{name}</h2>
-      <h5>Dirección: {address}</h5>
+      <h1>{name}</h1>
+      <h4>Dirección: {address}</h4>
       <a href={link} className="LinkButton" target="_blank" rel="noopener noreferrer">Ver ubicación</a>
     </div>
   );

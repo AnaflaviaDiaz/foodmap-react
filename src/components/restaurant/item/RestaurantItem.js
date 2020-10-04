@@ -12,7 +12,7 @@ const RestaurantItem = ({ restaurant, getInformationModal, onOpenModal }) => {
   };
 
   return (
-    <div className="m-1 item">
+    <div className="m-1 RestaurantItem">
       <h2>{name}</h2>
       <h4>{type}</h4>
       <button type="button" onClick={setInformationModal} className="LinkButton">Más información</button>

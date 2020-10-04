@@ -1,5 +1,15 @@
-.item {
+@import '../../../scss/variables.scss';
+
+.RestaurantItem {
   border: 1px solid #cccccc;
-  padding: 4px;
+  padding: 1rem;
   border-radius: 10px;
+  background-color: $bg-secondary-color;
+  width: 25rem;
+
+  @media screen and (max-width: 600px) {
+    & {
+      width: auto;
+    }
+  }
 }

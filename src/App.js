@@ -1,42 +1,23 @@
-import React, { useState } from 'react';
+import React from 'react';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route
+} from 'react-router-dom';
 import './App.scss';
-
 import Toolbar from './components/toolbar/Toolbar';
-import RestaurantList from './components/restaurant/list/RestaurantList';
-import Modal from './components/modal/Modal';
-
-const initialInformationItemState = {
-  name: '',
-  address: '',
-  link: '',
-  img: '',
-}
+import Restaurant from './components/restaurant/Restaurant';
+import Search from './components/search/Search';
 
 const App = () => {
-  const [showModal, setShowModal] = useState(false);
-  const [informationModal, setInformationModal] = useState(initialInformationItemState);
-
-  const handleShowModal = (value) => {
-    setShowModal(value);
-  };
-
-  const handleInformationModal = (information) => {
-    setInformationModal(information);
-  };
-
   return (
-    <div>
-      <Toolbar />
-      <main className="">
-        <RestaurantList
-          getInformationModal={handleInformationModal}
-          onOpenModal={handleShowModal} />
-        {showModal && (
-          <Modal
-            informationModal={informationModal}
-            onCloseModal={handleShowModal} />)}
-      </main>
-    </div>
+  <Router>
+    <Toolbar />
+    <Switch>
+      <Route exact path="/" component={Restaurant} />
+      <Route exact path="/search" component={Search} />
+    </Switch>
+  </Router>
   );
 }
 
