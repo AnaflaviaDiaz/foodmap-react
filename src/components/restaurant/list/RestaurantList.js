@@ -13,7 +13,7 @@ const RestaurantList = ({ getInformationModal, onOpenModal }) => {
           getInformationModal={getInformationModal}
           onOpenModal={onOpenModal} />)}
     </div>
-  )
+  );
 };
 
 export default RestaurantList;

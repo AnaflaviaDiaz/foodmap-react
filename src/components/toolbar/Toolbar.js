@@ -21,12 +21,12 @@ const Toolbar = () => {
       <div className="toolbar-search">
         {pathname === '/search' ?
           (
-            <div style={{float: 'left'}} onClick={goBack}>
+            <div className="float-left" onClick={goBack}>
               <BackIcon height="35px" />
             </div>
           ) :
           (
-            <div style={{float: 'right'}} onClick={goToSearch}>
+            <div className="float-right" onClick={goToSearch}>
               <SearchIcon height="30px" />
             </div>
           )

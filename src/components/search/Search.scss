@@ -1,0 +1,27 @@
+@import './../../scss/variables.scss';
+
+.Search {
+  padding: 1rem;
+
+  .search-container {
+    display: flex;
+
+    input {
+      width: 100%;
+      padding: 8px 16px;
+      box-sizing: border-box;
+      border-radius: 5px;
+    }
+
+    button {
+      border: none;
+      cursor: pointer;
+      background-color: transparent;
+    }
+  }
+
+  .restaurant-list {
+    padding: 1rem;
+    border-bottom: 1px solid $border-primary-color;
+  }
+}

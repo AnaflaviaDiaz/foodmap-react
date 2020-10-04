@@ -25,7 +25,7 @@ const Restaurant = () => {
 
   return (
     <main>
-      <div style={{ textAlign: 'center' }}>
+      <div className="text-center">
         <Logo height="80px" />
         <h4>Encuentra restaurantes en Miraflores</h4>
       </div>

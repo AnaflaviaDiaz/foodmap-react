@@ -1,0 +1,8 @@
+@import './../../variables.scss';
+
+.BadgeButton {
+  background-color: $bg-primary-color;
+  border: 1px solid black;
+  border-radius: 3px;
+  padding: 3px;
+}

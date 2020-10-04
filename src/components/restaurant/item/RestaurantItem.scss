@@ -1,7 +1,7 @@
 @import '../../../scss/variables.scss';
 
 .RestaurantItem {
-  border: 1px solid #cccccc;
+  border: 1px solid $border-primary-color;
   padding: 1rem;
   border-radius: 10px;
   background-color: $bg-secondary-color;

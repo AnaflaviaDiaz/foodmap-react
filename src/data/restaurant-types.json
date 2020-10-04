@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Chifa", "route": "/chifa" },
+  { "id": 2, "name": "Criolla", "route": "/criolla" },
+  { "id": 3, "name": "Parrilla", "route": "/parrilla" },
+  { "id": 4, "name": "Sushi", "route": "/sushi" },
+  { "id": 5, "name": "Mariscos", "route": "/mariscos" },
+  { "id": 6, "name": "Selvática", "route": "/selvatica" }
+]
