@@ -35,11 +35,16 @@ const Search = () => {
     setRestaurantList(getRestaurantList(search));
   };
 
+  const onSelectType = ({ name }) => {
+    if (name === 'Selvática') { name = 'selvatica' }
+    setRestaurantList(getRestaurantList((name).toLowerCase()));
+  }
+
   return (
     <div className="Search">
       <SearchForm onSubmit={onSubmit} />
 
-      <SearchTypes />
+      <SearchTypes onSelectType={onSelectType} />
 
       <h3>Resultados:</h3>
       <SearchList getInformationModal={handleInformationModal}
