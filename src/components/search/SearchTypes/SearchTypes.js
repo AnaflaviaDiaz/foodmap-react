@@ -7,7 +7,6 @@ const SearchTypes = ({ onSelectType }) => {
 
   const handleClick = (type) => {
     onSelectType(type);
-    // console.log(type);
   }
 
   return (
