@@ -6,6 +6,7 @@ import './../../scss/module/button/BadgeButton.scss';
 import SearchList from './SearchList/SearchList';
 import Modal from './../modal/Modal';
 import SearchForm from './SearchForm/SearchForm';
+import EmptyPage from '../empty-page/EmptyPage';
 
 const initialInformationItemState = {
   name: '',
@@ -46,9 +47,17 @@ const Search = () => {
 
       <SearchTypes onSelectType={onSelectType} />
 
-      <h3>Resultados:</h3>
-      <SearchList getInformationModal={handleInformationModal}
-        onOpenModal={handleShowModal} restaurantList={restaurantList} />
+      {restaurantList.length ? (
+        <>
+          <h3>Resultados:</h3>
+          <SearchList getInformationModal={handleInformationModal}
+          onOpenModal={handleShowModal} restaurantList={restaurantList} />
+        </> 
+      ): (
+        <div className="mt-4">
+          <EmptyPage />
+        </div>
+      )}
       {showModal && (
         <Modal
           informationModal={informationModal}
